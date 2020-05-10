@@ -19,9 +19,9 @@ Under *Enter Configuration* add this:
 ```json
 [
     {
-    'Classification': 'livy-conf',
-    'Properties': {
-        'livy.server.session.timeout':'10h'
+    "Classification": "livy-conf",
+    "Properties": {
+        "livy.server.session.timeout":"10h"
         }
     }
 ]
